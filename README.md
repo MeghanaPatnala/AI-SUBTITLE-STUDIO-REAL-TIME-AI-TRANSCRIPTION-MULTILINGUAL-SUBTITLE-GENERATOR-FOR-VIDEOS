@@ -35,10 +35,12 @@
 ## 📸 Screenshots
 
 Upload screen:  
-![Upload screen]("")
+![Screenshot 2025-06-17 022031](https://github.com/user-attachments/assets/afa8bfc5-cbc3-4a10-84b8-4901e65036a0)
+
 
 Result page:  
-![Result screen](screenshots/result.png)
+![Screenshot 2025-06-17 022423](https://github.com/user-attachments/assets/5af3f4a6-cc4a-4413-84e6-ddcc7b4cdd0b)
+
 
 ---
 
